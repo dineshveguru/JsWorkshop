@@ -1,0 +1,14 @@
+#heading{
+    color: rgb(90, 69, 69)
+}
+
+.color-box{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+}
+
+.rounded-corners{
+    border-radius: 20px;
+    font-family: 'Segoe UI';
+}
